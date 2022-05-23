@@ -1,0 +1,28 @@
+---
+title: "Estimación de Costos para Sistemas de Asignación Centralizada"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Fuentes de Datos {.tabset}
+La siguiente sección describe las fuentes de datos utilizadas para la estimación de costos, ahorros y beneficios de la implementación de políticas de Asignación Centralizada para distintos países. 
+
+## Costa Rica `r emo::ji(c('costa_rica'))` 
+
+
+### Estudiantes
+
+### Docentes 
+
+# Fórmulas de Cálculo {.tabset}
+
+A continuación se muestran las fórmulas utilizadas para el cálculo de los diferentes parámetros que componen la estimación de costos, ahorros y beneficios para la implementación de políticas de Asignación Centralizada en Costa Rica.
+
+## Costa Rica `r emo::ji(c('costa_rica'))` 
+
+
+### Estudiantes
+
+### Docentes 
